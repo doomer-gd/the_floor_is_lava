@@ -1,0 +1,3 @@
+repository "Piscine_42_00_the_floor_is_lava/Piscine_42_00_the_floor_is_lava@18967437386892@cloud"
+  path "/"
+    smartbranch "/main"
